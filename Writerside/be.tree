@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="be"
+                 name="Bufonu Education"
+                 start-page="Homepage.md">
+
+    <toc-element topic="Homepage.md"/>
+    <toc-element topic="Introduction-to-Programming.md"/>
+    <toc-element topic="Logic-and-Computer-Architecture.md"/>
+    <toc-element topic="Identity-Environment-and-Agency-1.md"/>
+    <toc-element topic="Graphics.md"/>
+    <toc-element topic="Algorithms.md"/>
+    <toc-element topic="Computing-Project.md"/>
+    <toc-element topic="Mathematics.md"/>
+    <toc-element topic="User-Experience-and-The-Web.md"/>
+</instance-profile>
