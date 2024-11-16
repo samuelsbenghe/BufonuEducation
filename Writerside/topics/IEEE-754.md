@@ -117,7 +117,7 @@ IEEE 754 specifies two primary formats for storing floating-point numbers: the *
 <h4>Step 5: Putting It All Together</h4>
 <p>The final IEEE 754 single precision representation of 29.125 is:</p>
 <p><strong>0 | 10000011 | 11010010000000000000000</strong></p>
-<a href="http://localhost:63342/com-bufonu-education/preview/ieee-754.html">Verify answer here</a>
+<a href="https://www.h-schmidt.net/FloatConverter/IEEE754.html">Verify answer here</a>
 </tab>
 
 <tab id="addition_example" title="Addition">
