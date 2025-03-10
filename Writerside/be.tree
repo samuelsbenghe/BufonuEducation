@@ -4,12 +4,13 @@
 
 <instance-profile id="be"
                  name="Bufonu Education"
-                 start-page="Homepage.md">
+                 start-page="Home.topic">
 
-    <toc-element topic="Homepage.md"/>
-    <toc-element topic="Algorithms.md"/>
-    <toc-element topic="Graphics.md"/>
-    <toc-element topic="Computing-Project.md"/>
+    <toc-element topic="Home.topic"/>
+    <toc-element topic="Computing-Project.topic"/>
+    <toc-element topic="Algorithms.topic"/>
+    <toc-element topic="Graphics.topic"/>
+    <toc-element topic="Identity-Environment-and-Agency-2.topic"/>
     <toc-element toc-title="Old">
         <toc-element topic="Logic-and-Computer-Architecture.md">
             <toc-element topic="IEEE-754.md"/>

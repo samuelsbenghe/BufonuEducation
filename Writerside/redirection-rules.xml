@@ -10,4 +10,24 @@
         <description>Created after removal of "Empty MD Topic" from Instance Name</description>
         <accepts>empty-md-topic.html</accepts>
     </rule>
+    <rule id="362e8708">
+        <description>Created after removal of "Computing Project" from Bufonu Education</description>
+        <accepts>Computing-Project.html</accepts>
+    </rule>
+    <rule id="7b18530c">
+        <description>Created after removal of "My Home" from Bufonu Education</description>
+        <accepts>My-Home.html</accepts>
+    </rule>
+    <rule id="3d701b85">
+        <description>Created after removal of "Amazing Website" from Bufonu Education</description>
+        <accepts>Homepage.html</accepts>
+    </rule>
+    <rule id="554a5489">
+        <description>Created after removal of "Graphics" from Bufonu Education</description>
+        <accepts>Graphics.html</accepts>
+    </rule>
+    <rule id="149228a3">
+        <description>Created after removal of "Algorithms" from Bufonu Education</description>
+        <accepts>Algorithms.html</accepts>
+    </rule>
 </rules>
