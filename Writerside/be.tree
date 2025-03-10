@@ -7,15 +7,17 @@
                  start-page="Homepage.md">
 
     <toc-element topic="Homepage.md"/>
-    <toc-element topic="Introduction-to-Programming.md"/>
-    <toc-element topic="Mathematics.md"/>
-    <toc-element topic="Logic-and-Computer-Architecture.md">
-        <toc-element topic="IEEE-754.md"/>
-        <toc-element topic="Marie-Cylinder-Volume.md"/>
-    </toc-element>
-    <toc-element topic="User-Experience-and-The-Web.md"/>
-    <toc-element topic="Identity-Environment-and-Agency-1.md"/>
     <toc-element topic="Algorithms.md"/>
     <toc-element topic="Graphics.md"/>
     <toc-element topic="Computing-Project.md"/>
+    <toc-element toc-title="Old">
+        <toc-element topic="Logic-and-Computer-Architecture.md">
+            <toc-element topic="IEEE-754.md"/>
+            <toc-element topic="Marie-Cylinder-Volume.md"/>
+        </toc-element>
+        <toc-element topic="User-Experience-and-The-Web.md"/>
+        <toc-element topic="Introduction-to-Programming.md"/>
+        <toc-element topic="Mathematics.md"/>
+        <toc-element topic="Identity-Environment-and-Agency-1.md"/>
+    </toc-element>
 </instance-profile>

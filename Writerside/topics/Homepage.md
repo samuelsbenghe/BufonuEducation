@@ -1,4 +1,4 @@
-# Let's Be Honest
+# Amazing Website
 
 If the VLE were more organized, this website wouldn’t need to exist.
 
