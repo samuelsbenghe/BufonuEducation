@@ -5,5 +5,92 @@
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Computing Project" id="Computing-Project">
 
-    <p>Start typing here...</p>
+    <chapter title="Assignments" id="assignments">
+        <table>
+            <tr>
+                <td>
+                    <p>Topic</p>
+                </td>
+                <td>
+                    <p>Due Date</p>
+                </td>
+                <td>
+                    <p>Link</p>
+                </td>
+                <td>
+                    <p>Weight</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p>Computing Project</p>
+                </td>
+                <td>
+                    <p>Friday, 16 May 2025, 12:00 PM</p>
+                </td>
+                <td>
+                    <p><a href="https://learn.gold.ac.uk/mod/assign/view.php?id=1609571">Link</a></p>
+                </td>
+                <td>
+                    <p>80%</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p>Synapse Workshop</p>
+                </td>
+                <td>
+                    <p>Friday, 2 May 2025, 12:00 PM</p>
+                </td>
+                <td>
+                    <p><a href="https://learn.gold.ac.uk/mod/assign/view.php?id=1609568">Link</a></p>
+                </td>
+                <td>
+                    <p>5%</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p>Case Study 1 (Drawing)</p>
+                </td>
+                <td>
+                    <p>Friday, 2 May 2025, 12:00 PM</p>
+                </td>
+                <td>
+                    <p><a href="https://learn.gold.ac.uk/mod/assign/view.php?id=1609613">Link</a></p>
+                </td>
+                <td>
+                    <p>5%</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p>Case Study 2 (Music)</p>
+                </td>
+                <td>
+                    <p>Friday, 2 May 2025, 12:00 PM</p>
+                </td>
+                <td>
+                    <p><a href="https://learn.gold.ac.uk/mod/assign/view.php?id=1609618">Link</a></p>
+                </td>
+                <td>
+                    <p>5%</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p>Case Study 3 (Data)</p>
+                </td>
+                <td>
+                    <p>Friday, 2 May 2025, 12:00 PM</p>
+                </td>
+                <td>
+                    <p><a href="https://learn.gold.ac.uk/mod/assign/view.php?id=1609623">Link</a></p>
+                </td>
+                <td>
+                    <p>5%</p>
+                </td>
+            </tr>
+        </table>
+    </chapter>
 </topic>
